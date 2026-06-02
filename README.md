@@ -15,4 +15,4 @@ L'application Habilitations représente cet utilitaire.<br>
 ### Instllation de l'application
 Pour installer l'application vous devez cliquer sur le bouton "code" en haut a droite des fichiers, cette action ouvrira une fenetre avec marquer "Download ZIP" cliquez dessu.
 une fois le fichier zip installer, vous devez l'extraire pour pouvoir procéder a l'instalation.
-quand cette étape est terminé, ouvre le et rendez vous sur le dossier "Habilitations2024Installeur" puis "Release" et ensuite, cliquez sur "Habilitations2024Installeur.msi" ce qui vous ouvrira l'installeur.
+quand cette étape est terminé, ouvree le fichier, et rendez vous sur le dossier "Habilitations2024Installeur" puis "Release" et ensuite, cliquez sur "Habilitations2024Installeur.msi" ce qui vous ouvrira l'installeur.
