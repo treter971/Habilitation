@@ -1,0 +1,14 @@
+C:\Users\C2H6\Downloads\CODE\pdfpdpdpdpd\habilitations2024\bin\Debug\habilitations2024.exe.config
+C:\Users\C2H6\Downloads\CODE\pdfpdpdpdpd\habilitations2024\bin\Debug\habilitations2024.exe
+C:\Users\C2H6\Downloads\CODE\pdfpdpdpdpd\habilitations2024\bin\Debug\habilitations2024.pdb
+C:\Users\C2H6\Downloads\CODE\pdfpdpdpdpd\habilitations2024\bin\Debug\MySql.Data.dll
+C:\Users\C2H6\Downloads\CODE\pdfpdpdpdpd\habilitations2024\bin\Debug\System.Memory.dll
+C:\Users\C2H6\Downloads\CODE\pdfpdpdpdpd\habilitations2024\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\C2H6\Downloads\CODE\pdfpdpdpdpd\habilitations2024\bin\Debug\MySql.Data.xml
+C:\Users\C2H6\Downloads\CODE\pdfpdpdpdpd\habilitations2024\obj\Debug\habilitations2024.csproj.AssemblyReference.cache
+C:\Users\C2H6\Downloads\CODE\pdfpdpdpdpd\habilitations2024\obj\Debug\habilitations2024.Properties.Resources.resources
+C:\Users\C2H6\Downloads\CODE\pdfpdpdpdpd\habilitations2024\obj\Debug\habilitations2024.csproj.GenerateResource.cache
+C:\Users\C2H6\Downloads\CODE\pdfpdpdpdpd\habilitations2024\obj\Debug\habilitations2024.csproj.CoreCompileInputs.cache
+C:\Users\C2H6\Downloads\CODE\pdfpdpdpdpd\habilitations2024\obj\Debug\habilita.13ADAB40.Up2Date
+C:\Users\C2H6\Downloads\CODE\pdfpdpdpdpd\habilitations2024\obj\Debug\habilitations2024.exe
+C:\Users\C2H6\Downloads\CODE\pdfpdpdpdpd\habilitations2024\obj\Debug\habilitations2024.pdb
